@@ -12,7 +12,7 @@ Add permission to AndroidManifest.xml
 usage: 
 
         Display Floating Circles:-
-		mMagicCircle=new MagicCircles(MainActivity.this,0,150,R.drawable.sample,true);
+	    mMagicCircle=new MagicCircles(MainActivity.this,0,150,R.drawable.sample,true);
         mMagicCircle.setCancelableOnTouchOutside(false);
         myMagicCircle.setOnMagicCircleClick(MainActivity.this);
         mMagicCircle.show(200);
