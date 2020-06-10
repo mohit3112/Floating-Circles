@@ -34,6 +34,6 @@ dependencies: gradle
     }       
 
 
-See Circle Example For More Details 
-   
+See Circle Example For More Details </br>
+![Alt Text](https://github.com/mohit3112/Floating-Circles/blob/master/MagicC.gif)
 
